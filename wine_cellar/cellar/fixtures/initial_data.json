@@ -1,0 +1,314 @@
+[
+   {
+      "pk": 1,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "saint_cosme.jpg",
+         "description": "The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes.",
+         "country": "France",
+         "region": "Southern Rhone",
+         "grapes": "Grenache / Syrah",
+         "year": "2009",
+         "name": "CHATEAU DE SAINT COSME"
+      }
+   },
+   {
+      "pk": 2,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "lan_rioja.jpg",
+         "description": "A resurgence of interest in boutique vineyards has opened the door for this excellent foray into the dessert wine market. Light and bouncy, with a hint of black truffle, this wine will not fail to tickle the taste buds.",
+         "country": "Spain",
+         "region": "Rioja",
+         "grapes": "Tempranillo",
+         "year": "2006",
+         "name": "LAN RIOJA CRIANZA"
+      }
+   },
+   {
+      "pk": 3,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "margerum.jpg",
+         "description": "The cache of a fine Cabernet in ones wine cellar can now be replaced with a childishly playful wine bubbling over with tempting tastes of black cherry and licorice. This is a taste sure to transport you back in time.",
+         "country": "USA",
+         "region": "California Central Cosat",
+         "grapes": "Sauvignon Blanc",
+         "year": "2010",
+         "name": "MARGERUM SYBARITE"
+      }
+   },
+   {
+      "pk": 4,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "ex_umbris.jpg",
+         "description": "A one-two punch of black pepper and jalapeno will send your senses reeling, as the orange essence snaps you back to reality. Don't miss this award-winning taste sensation.",
+         "country": "USA",
+         "region": "Washington",
+         "grapes": "Syrah",
+         "year": "2009",
+         "name": "OWEN ROE \"EX UMBRIS\""
+      }
+   },
+   {
+      "pk": 5,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "rex_hill.jpg",
+         "description": "One cannot doubt that this will be the wine served at the Hollywood award shows, because it has undeniable star power. Be the first to catch the debut that everyone will be talking about tomorrow.",
+         "country": "USA",
+         "region": "Oregon",
+         "grapes": "Pinot Noir",
+         "year": "2009",
+         "name": "REX HILL"
+      }
+   },
+   {
+      "pk": 6,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "viticcio.jpg",
+         "description": "Though soft and rounded in texture, the body of this wine is full and rich and oh-so-appealing. This delivery is even more impressive when one takes note of the tender tannins that leave the taste buds wholly satisfied.",
+         "country": "Italy",
+         "region": "Tuscany",
+         "grapes": "Sangiovese Merlot",
+         "year": "2007",
+         "name": "VITICCIO CLASSICO RISERVA"
+      }
+   },
+   {
+      "pk": 7,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "le_doyenne.jpg",
+         "description": "Though dense and chewy, this wine does not overpower with its finely balanced depth and structure. It is a truly luxurious experience for the\nsenses.",
+         "country": "France",
+         "region": "Bordeaux",
+         "grapes": "Merlot",
+         "year": "2005",
+         "name": "CHATEAU LE DOYENNE"
+      }
+   },
+   {
+      "pk": 8,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "bouscat.jpg",
+         "description": "The light golden color of this wine belies the bright flavor it holds. A true summer wine, it begs for a picnic lunch in a sun-soaked vineyard.",
+         "country": "France",
+         "region": "Bordeaux",
+         "grapes": "Merlot",
+         "year": "2009",
+         "name": "DOMAINE DU BOUSCAT"
+      }
+   },
+   {
+      "pk": 9,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "block_nine.jpg",
+         "description": "With hints of ginger and spice, this wine makes an excellent complement to light appetizer and dessert fare for a holiday gathering.",
+         "country": "USA",
+         "region": "California",
+         "grapes": "Pinot Noir",
+         "year": "2009",
+         "name": "BLOCK NINE"
+      }
+   },
+   {
+      "pk": 10,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "domaine_serene.jpg",
+         "description": "Though subtle in its complexities, this wine is sure to please a wide range of enthusiasts. Notes of pomegranate will delight as the nutty finish completes the picture of a fine sipping experience.",
+         "country": "USA",
+         "region": "Oregon",
+         "grapes": "Pinot Noir",
+         "year": "2007",
+         "name": "DOMAINE SERENE"
+      }
+   },
+   {
+      "pk": 11,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "bodega_lurton.jpg",
+         "description": "Solid notes of black currant blended with a light citrus make this wine an easy pour for varied palates.",
+         "country": "Argentina",
+         "region": "Mendoza",
+         "grapes": "Pinot Gris",
+         "year": "2011",
+         "name": "BODEGA LURTON"
+      }
+   },
+   {
+      "pk": 12,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "morizottes.jpg",
+         "description": "Breaking the mold of the classics, this offering will surprise and undoubtedly get tongues wagging with the hints of coffee and tobacco in perfect alignment with more traditional notes. Sure to please the late-night crowd with the slight jolt of adrenaline it brings.",
+         "country": "France",
+         "region": "Burgundy",
+         "grapes": "Chardonnay",
+         "year": "2009",
+         "name": "LES MORIZOTTES"
+      }
+   },
+   {
+      "pk": 13,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "argiano.jpg",
+         "description": "Like a symphony, this cabernet has a wide range of notes that will delight the taste buds and linger in the mind.",
+         "country": "Italy",
+         "region": "Tuscany",
+         "grapes": "Cabernet Sauvignon",
+         "year": "2009",
+         "name": "ARGIANO NON CONFUNDITUR"
+      }
+   },
+   {
+      "pk": 14,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "dinastia.jpg",
+         "description": "Whether enjoying a fine cigar or a nicotine patch, don't pass up a taste of this hearty Rioja, both smooth and robust.",
+         "country": "Spain",
+         "region": "Rioja",
+         "grapes": "Tempranillo",
+         "year": "2008",
+         "name": "DINASTIA VIVANCO "
+      }
+   },
+   {
+      "pk": 15,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "petalos.jpg",
+         "description": "For the first time, a blend of grapes from two different regions have been combined in an outrageous explosion of flavor that cannot be missed.",
+         "country": "Spain",
+         "region": "Castilla y Leon",
+         "grapes": "Mencia",
+         "year": "2009",
+         "name": "PETALOS BIERZO"
+      }
+   },
+   {
+      "pk": 16,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "shafer.jpg",
+         "description": "Keep an eye out for this winery in coming years, as their chardonnays have reached the peak of perfection.",
+         "country": "USA",
+         "region": "California",
+         "grapes": "Chardonnay",
+         "year": "2009",
+         "name": "SHAFER RED SHOULDER RANCH"
+      }
+   },
+   {
+      "pk": 17,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "ponzi.jpg",
+         "description": "For those who appreciate the simpler pleasures in life, this light pinot grigio will blend perfectly with a light meal or as an after dinner drink.",
+         "country": "USA",
+         "region": "Oregon",
+         "grapes": "Pinot Gris",
+         "year": "2010",
+         "name": "PONZI"
+      }
+   },
+   {
+      "pk": 18,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "hugel.jpg",
+         "description": "Fresh as new buds on a spring vine, this dewy offering is the finest of the new generation of pinot grigios.  Enjoy it with a friend and a crown of flowers for the ultimate wine tasting experience.",
+         "country": "France",
+         "region": "Alsace",
+         "grapes": "Pinot Gris",
+         "year": "2010",
+         "name": "HUGEL"
+      }
+   },
+   {
+      "pk": 19,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "fourvines.jpg",
+         "description": "o yourself a favor and have a bottle (or two) of this fine zinfandel on hand for your next romantic outing.  The only thing that can make this fine choice better is the company you share it with.",
+         "country": "USA",
+         "region": "California",
+         "grapes": "Zinfandel",
+         "year": "2011",
+         "name": "FOUR VINES MAVERICK"
+      }
+   },
+   {
+      "pk": 20,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "quivira.jpg",
+         "description": "Rarely do you find a zinfandel this oakey from the Sonoma region. The vintners have gone to extremes to duplicate the classic flavors that brought high praise in the early '90s.",
+         "country": "USA",
+         "region": "California",
+         "grapes": "Zinfandel",
+         "year": "2009",
+         "name": "QUIVIRA DRY CREEK VALLEY"
+      }
+   },
+   {
+      "pk": 21,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "calera.jpg",
+         "description": "Fruity and bouncy, with a hint of spice, this pinot noir is an excellent candidate for best newcomer from Napa this year.  \n",
+         "country": "USA",
+         "region": "California",
+         "grapes": "Pinot Noir",
+         "year": "2010",
+         "name": "CALERA 35TH ANNIVERSARY"
+      }
+   },
+   {
+      "pk": 22,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "caronne.jpg",
+         "description": "Find a sommelier with a taste for chocolate and he's guaranteed to have this cabernet on his must-have list.  \n",
+         "country": "France",
+         "region": "Bordeaux",
+         "grapes": "Cabernet Sauvignon",
+         "year": "2010",
+         "name": "CHATEAU CARONNE STE GEMME"
+      }
+   },
+   {
+      "pk": 23,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "momo.jpg",
+         "description": "Best served chilled with melon or a nice salty prosciutto, this sauvignon blanc is a staple in every Italian kitchen, if not on their wine list.  Request the best, and you just may get it.",
+         "country": "New Zealand",
+         "region": "South Island",
+         "grapes": "Sauvignon Blanc",
+         "year": "2010",
+         "name": "MOMO MARLBOROUGH"
+      }
+   },
+   {
+      "pk": 24,
+      "model": "cellar.wine",
+      "fields": {
+         "picture": "waterbrook.jpg",
+         "description": "Legend has it the gods didn't share their ambrosia with mere mortals.  This merlot may be the closest we've ever come to a taste of heaven.",
+         "country": "USA",
+         "region": "Washington",
+         "grapes": "Merlot",
+         "year": "2009",
+         "name": "WATERBROOK"
+      }
+   }
+]
