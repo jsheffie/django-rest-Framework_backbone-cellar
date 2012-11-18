@@ -19,7 +19,7 @@ Will also tie this to a bootstrap template
 -- interesting the startapp command in django 1.4 is now putting the app at the same level as the project root, follow up on this and figure out why this is --
 
 ### Install Initial Data fixture ###
-chicken n egg problem. The Wine-Cellar tut from backbone was kind enough to provide a sql file with the initial set of data. Which I included here for completeness.. Note: the steps I am about to describe are going to become OBE as soon as I create a inital_data.json file. But I document them here for completeness.
+Chicken-n-egg problem 'the initial set of data for project'. The Wine-Cellar tut from backbone was kind enough to provide a sql file with the initial set of data. Which I included here for completeness. Note: the steps I am about to describe are going to become OBE as soon as I create a inital_data.json file. But I document them here for completeness.
 
 - $ mysql cellar -uroot < cellar.sql
 - $ python ./manage.py dumpdata --indent=3 cellar > cellar/fixtures/initial_data.json
