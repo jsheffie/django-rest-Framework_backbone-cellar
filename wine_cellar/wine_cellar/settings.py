@@ -1,4 +1,11 @@
 # Django settings for wine_cellar project. DJANGO 1.4
+import os, sys
+
+#-------------------------------------------------------------------------------
+def rel(*x):
+    """ A portable way to deal with production/development server runs """
+    return os.path.join(os.path.abspath(os.path.dirname(__file__)), *x)
+#-------------------------------------------------------------------------------
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -74,6 +81,7 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
     'django_extensions',
+    'rest_framework',
     'wine_cellar.wines',
 )
 
