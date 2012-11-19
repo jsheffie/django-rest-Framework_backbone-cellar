@@ -7,6 +7,11 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 
+from django.shortcuts import render_to_response
+
+def index( request ):
+    return render_to_response( "wines/index.html" )
+
 class WineList( APIView ):
     """ list all of wines, or create a new wine """
     def get( self, request, format=None ):

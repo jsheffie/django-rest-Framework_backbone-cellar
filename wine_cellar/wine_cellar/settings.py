@@ -6,6 +6,7 @@ def rel(*x):
     """ A portable way to deal with production/development server runs """
     return os.path.join(os.path.abspath(os.path.dirname(__file__)), *x)
 #-------------------------------------------------------------------------------
+ROOT_PATH = os.path.dirname(os.path.abspath(__file__))
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -67,7 +68,9 @@ MIDDLEWARE_CLASSES = (
 ROOT_URLCONF = 'wine_cellar.urls'
 WSGI_APPLICATION = 'wine_cellar.wsgi.application'
 
-TEMPLATE_DIRS = ()
+TEMPLATE_DIRS = (
+                 rel('wines'),
+                 )
 
 INSTALLED_APPS = (
     'django.contrib.auth',
