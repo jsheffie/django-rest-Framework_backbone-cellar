@@ -3,7 +3,9 @@
 
 This project aims to go through the steps to tie this js lib to the django-rest-framework to see what the steps are to make this work.
 
-Will also tie this to a bootstrap template
+Will also tie this to a bootstrap template.
+
+TODO: tie in the [underscore.js](http://underscorejs.org/) client site lib as well
 
 ## Set up VirtualEnv
 - $ mkvirtualenv djangoCellarTut
